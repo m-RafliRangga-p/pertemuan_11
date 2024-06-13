@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+
+table{
+    margin: auto;
+    padding: 20px;
+    border: 2px solid blue;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    background-color: aqua;
+}
+
+.btn{
+    border: 3px solid green;
+    padding: 7px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
